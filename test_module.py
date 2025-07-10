@@ -1,6 +1,6 @@
 import unittest
 import demographic_data_analyzer
-
+ 
 class DemographicAnalyzerTestCase(unittest.TestCase):
     @classmethod
     def setUpClass(self):
