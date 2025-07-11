@@ -1,5 +1,4 @@
 # Demographic-Data-Analyzer
-
 A Python-based project for analyzing demographic data.
 
 ## Features
